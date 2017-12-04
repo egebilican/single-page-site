@@ -29,7 +29,9 @@ const styles = {
     maxWidth: '1000px',
     flex: 1,
     display: 'flex',
-    justifyContent: 'space-between'
+    justifyContent: 'space-between',
+    fontFamily: 'Open Sans',
+    fontSize: 14
   },
   buttonStyle: {
     paddingLeft: 10,

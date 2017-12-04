@@ -6,6 +6,7 @@ const Box = props => {
   return (
     <div style={styles.boxStyle}>
       <img style={styles.picStyle} src={props.picUrl} alt="destination image" />
+      <div style={styles.textOverPic}>{props.price} </div>
       <div style={styles.textStyle}>
         <div style={styles.headerStyle}>{props.header}</div>
         {props.children}
@@ -29,14 +30,27 @@ const styles = {
     display: 'flex',
     flexDirection: 'Column',
     marginBottom: '20px',
-    padding:0
+    padding:0,
+    zIndex: 0,
+    position: 'relative'
     
+  },
+  textOverPic: {
+    position:'absolute',
+    right: '15px',
+    top: '175px',
+    backgroundColor: 'rgba(0,0,0,0.5)',
+    color: 'white',
+    fontFamily: 'Montserrat',
+    fontSize: 12
   },
   picStyle: {
     width: '100%',
     maxWidth: '240px',
     height:'200px',
-    flexGrow: 0
+    flexGrow: 0,
+    zIndex: 0
+
   },
   textStyle: {
     backgroundColor: 'rgb(255,255,255)',
@@ -47,6 +61,7 @@ const styles = {
     textAlign: 'left',
     fontFamily: 'Open Sans',
     padding: '20px',
+    zIndex: 0
   },
   textStyle2: {
     backgroundColor: 'rgb(255,255,255)',

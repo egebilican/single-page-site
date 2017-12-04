@@ -5,7 +5,7 @@ import BackgroundPic from './backgroundPic';
 class LandingPage extends Component {
   render() {
     return (
-      <BackgroundPic>
+      <BackgroundPic mainText={'Where will you go next?'}>
         <Bar 
           placeHolder={'Start typing..'}
           buttonText={'GO'}

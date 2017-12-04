@@ -16,6 +16,7 @@ class TopDestinations extends Component {
             <Box
               picUrl="http://i.hurimg.com/i/hurriyet/75/590x332/55eb48c9f018fbb8f8b74584.jpg"
               header="KIREMITHANE"
+              price='$500'
             >
               Koln Kalk sokaklarda penceresiz kaldim, eski okul gangstalardan
               enerjimi aldim.
@@ -23,6 +24,8 @@ class TopDestinations extends Component {
             <Box
               picUrl="http://d.haberciniz.biz/other/polis-cincinde-cinayet-zanlisi-aradi-ankara-20100302A0203111-01.jpg"
               header="CINCIN"
+              price='$600'
+              
             >
               Koln Kalk sokaklarda penceresiz kaldim, eski okul gangstalardan
               enerjimi aldim.
@@ -30,6 +33,8 @@ class TopDestinations extends Component {
             <Box
               picUrl="http://www.cagdasses.com/images/posts/201408/1334_720x400.jpg"
               header="BAGCILAR"
+              price='$50'
+              
             >
               Koln Kalk sokaklarda penceresiz kaldim, eski okul gangstalardan
               enerjimi aldim.
@@ -37,6 +42,8 @@ class TopDestinations extends Component {
             <Box
               picUrl="http://i.dailymail.co.uk/i/pix/2013/05/13/article-0-19C3078D000005DC-894_634x378.jpg"
               header="COMPTON"
+              price='$350'
+              
             >
               Koln Kalk sokaklarda penceresiz kaldim, eski okul gangstalardan
               enerjimi aldim.
