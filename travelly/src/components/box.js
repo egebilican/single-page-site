@@ -75,7 +75,8 @@ const styles = {
   headerStyle: {
     fontFamily: 'Montserrat',
     fontWeight: '700',
-    paddingBottom: '20px'
+    paddingBottom: '20px',
+    fontSize:'14px'
   }
 };
 

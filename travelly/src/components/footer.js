@@ -23,7 +23,7 @@ const styles = {
     display: 'flex',
     justifyContent: 'center',
     alignItems: 'center',
-    height: '70px'
+    minHeight: '70px'
   },
   footerContainer: {
     maxWidth: '1000px',

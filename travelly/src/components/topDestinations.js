@@ -14,39 +14,38 @@ class TopDestinations extends Component {
           </div>
           <div style={styles.boxContainerStyle}>
             <Box
-              picUrl="http://i.hurimg.com/i/hurriyet/75/590x332/55eb48c9f018fbb8f8b74584.jpg"
-              header="KIREMITHANE"
-              price='$500'
+              picUrl="https://www.gapyear.com/images/content/11.07.18-bcp_ft_australia-3_17191420.jpg"
+              header="AUSTRALIA"
+              price='$1095'
             >
-              Koln Kalk sokaklarda penceresiz kaldim, eski okul gangstalardan
-              enerjimi aldim.
+              Become inspired to travel to Australia. Discover fantastic things to do & places to go.
             </Box>
             <Box
-              picUrl="http://d.haberciniz.biz/other/polis-cincinde-cinayet-zanlisi-aradi-ankara-20100302A0203111-01.jpg"
-              header="CINCIN"
-              price='$600'
+              picUrl="https://www.nationalgeographic.com/content/dam/science/photos/000/247/24713.jpg"
+              header="ANCIENT SOUTH AMERICA"
+              price='$1295'
               
             >
-              Koln Kalk sokaklarda penceresiz kaldim, eski okul gangstalardan
-              enerjimi aldim.
+            Become inspired to travel to South America. Discover fantastic things to do & places to go.
+            
             </Box>
             <Box
-              picUrl="http://www.cagdasses.com/images/posts/201408/1334_720x400.jpg"
-              header="BAGCILAR"
-              price='$50'
+              picUrl="https://ww5.cityofpasadena.net/economicdevelopment/wp-content/uploads/sites/2/2016/04/pasadena-sunset.jpg"
+              header="MODERN NORTH AMERICA"
+              price='$695'
               
             >
-              Koln Kalk sokaklarda penceresiz kaldim, eski okul gangstalardan
-              enerjimi aldim.
+            Become inspired to travel to North America. Discover fantastic things to do & places to go.
+            
             </Box>
             <Box
-              picUrl="http://i.dailymail.co.uk/i/pix/2013/05/13/article-0-19C3078D000005DC-894_634x378.jpg"
-              header="COMPTON"
-              price='$350'
+              picUrl="http://nec-fotografie.de/wp-content/uploads/2016/01/hamburg-skyline-panorma-logo.jpg"
+              header="CLASSIC EUROPE"
+              price='$295'
               
             >
-              Koln Kalk sokaklarda penceresiz kaldim, eski okul gangstalardan
-              enerjimi aldim.
+            Become inspired to travel to Europe. Discover fantastic things to do & places to go.
+            
             </Box>
           </div>
         </div>
